@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  line-height: 1.6;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: blue;
+}
+#content {
+  margin-top: 2rem;
+}
